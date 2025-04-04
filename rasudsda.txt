@@ -1,0 +1,3 @@
+ativar - sistema_estudos\Scripts\activate
+desativar - deactive
+install - pip install -r requirements.txt
